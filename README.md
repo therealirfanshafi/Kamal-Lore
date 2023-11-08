@@ -1,5 +1,5 @@
 # Kamal-Lore
-This is a simple game I made. If you want to play the game clone the github repository. Make sure you have python 3 along with the pygame package installed on your device to play the game
+This is a simple game I made. If you want to play the game clone the github repository. Make sure you have python 3 along with the pygame package installed on your device to play the game. PLEASE ADD A DIRECTORY/FOLDER NAMED "Save Data" (must be exactly this name except the quotes) in the Assets Directory/Folder in order to allow your progress to be saved.
 
 Some instructions while playing the game:
 This game does not involve the use of a mouse so dont attempt to use it. In certain cases, clicking in or outside the game window may cause the game to crash. Please do not open any other window while playing the game
